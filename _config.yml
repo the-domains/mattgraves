@@ -1,0 +1,28 @@
+name: MattGraves
+favicon: null
+layout_spectrum: 0.8019782830961049
+typography_spectrum: 0.7451420286670327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9586401698179543
+  lightness: 0.3656144258566201
+  saturation: 0.04230668302625418
+  rhythmicContrast: 0.7220519015099853
+purpose: []
